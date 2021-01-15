@@ -4,7 +4,7 @@
 
 I am Software Engineer, I enjoy building stuff for the web and teaching. 
 
-#### Some of my favourites toys are:
+#### Some of my favourite toys
 
 - React.js
 - Vue.js
