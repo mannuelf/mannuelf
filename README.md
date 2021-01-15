@@ -7,10 +7,11 @@ I am Software Engineer, I enjoy building stuff for the web and teaching.
 #### Some of my favourites toys are:
 
 - React.js
-- Vue
+- Vue.js
 - TypeScript
 - Node.js
 - Python
+- MongoDB
 
 <!--
 **mannuelf/mannuelf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
