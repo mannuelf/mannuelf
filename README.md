@@ -12,6 +12,8 @@ I am Software Engineer, I enjoy building stuff for the web and teaching.
 - Node.js
 - Python
 - MongoDB
+- Next.js
+- Nuxt.js
 
 <!--
 **mannuelf/mannuelf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
