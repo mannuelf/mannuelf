@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=mannuelf)
+
+I am Software Engineer, I enjoy building stuff for the web and teaching. 
+
+#### Some of my favourites toys are:
+
+- React.js
+- Vue
+- TypeScript
+- Node.js
+- Python
+
 <!--
 **mannuelf/mannuelf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
