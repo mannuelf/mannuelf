@@ -11,6 +11,7 @@ I am Software Engineer, I enjoy building stuff for the web and teaching.
 - TypeScript
 - Node.js
 - Python
+- Laravel
 - MongoDB
 - Next.js
 - Nuxt.js
