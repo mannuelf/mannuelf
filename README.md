@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=mannuelf)
-
-I am Software Engineer, I enjoy building web applications and teaching.
+I am Software Engineer, teaching front-end development in Oslo. I enjoy building web applications.
 
 #### Front-end
 
