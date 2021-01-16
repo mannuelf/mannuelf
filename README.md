@@ -4,17 +4,30 @@
 
 I am Software Engineer, I enjoy building stuff for the web and teaching. 
 
-#### Some of my favourite toys
+#### Some of my favourite things
 
 - React.js
 - Vue.js
 - TypeScript
 - Node.js
-- Python
+- VIM
+
+#### In my experience I have concatenated strings in
+
+- Bash
+- PHP
 - Laravel
-- MongoDB
+- Python
 - Next.js
 - Nuxt.js
+
+#### Servers and more servers
+
+- AWS
+- Google Cloud Platform
+- Micro services
+- Docker
+- Kubernetes
 
 <!--
 **mannuelf/mannuelf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
