@@ -21,7 +21,7 @@ I am Software Engineer, teaching front-end development in Oslo. I enjoy building
 
 #### Servers
 
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-e76d0c?style=flat-square&logo=amazon-aws)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-cccccc?style=flat-square&logo=kubernetes)
@@ -32,7 +32,7 @@ I am Software Engineer, teaching front-end development in Oslo. I enjoy building
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=mannuelf&count_private=true&show_icons=true&include_all_commits=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mannuelf&hide=TeX&layout=compact)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=mannuelf)
 
 
 <!--
