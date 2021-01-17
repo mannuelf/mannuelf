@@ -19,6 +19,7 @@ I am Software Engineer, teaching front-end development in Oslo. I enjoy building
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![SQL](https://img.shields.io/badge/-SQL-blue?style=flat-square&logo=sql)
 
 #### Servers
 
