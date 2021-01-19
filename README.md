@@ -13,7 +13,7 @@ I am Software Engineer, teaching front-end development in Oslo. I enjoy building
 
 #### Backend
 
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Nodejs](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
 ![PHP](https://img.shields.io/badge/-PHP-4F5B93?style=flat-square&logo=php)
 ![Laravel](https://img.shields.io/badge/-Laravel-CCCCCC?style=flat-square&logo=laravel)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
@@ -35,19 +35,3 @@ I am Software Engineer, teaching front-end development in Oslo. I enjoy building
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=mannuelf&count_private=true&show_icons=true&include_all_commits=true)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=mannuelf)
-
-
-<!--
-**mannuelf/mannuelf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
