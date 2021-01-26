@@ -32,6 +32,6 @@ I am Software Engineer, teaching front-end development in Oslo. I enjoy building
 
 [![Linkedin Badge](https://img.shields.io/badge/-mannuel-ferreira?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mannuelferreira/)](https://www.linkedin.com/in/mannuelferreira/)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=mannuelf&count_private=true&show_icons=true&include_all_commits=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=mannuelf&count_private=true&show_icons=true&include_all_commits=true&theme=radical)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=mannuelf)
