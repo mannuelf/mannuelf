@@ -29,7 +29,7 @@ I am Software Engineer, teaching front-end development in Oslo. I enjoy building
 ![Flask](https://img.shields.io/badge/-Flask-blue?style=flat-square&logo=flask)
 
 
-#### Servers and things
+#### Servers and other things
 
 ![Nginx](https://img.shields.io/badge/-nginx-28a745?style=flat-square&logo=nginx)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-e76d0c?style=flat-square&logo=amazon-aws)
