@@ -23,6 +23,9 @@ I am Software Engineer, teaching front-end development in Oslo. I enjoy building
 
 ![Express](https://img.shields.io/badge/-Express-333?style=flat-square&logo=express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![REDIS](https://img.shields.io/badge/-REDIS-black?style=flat-square&logo=redis)
+![RABBITMQ](https://img.shields.io/badge/-RABBITMQ-black?style=flat-square&logo=rabbitmq)
+
 
 ![PHP](https://img.shields.io/badge/-PHP-4F5B93?style=flat-square&logo=php)
 ![Laravel](https://img.shields.io/badge/-Laravel-CCCCCC?style=flat-square&logo=laravel)
@@ -32,10 +35,12 @@ I am Software Engineer, teaching front-end development in Oslo. I enjoy building
 ![Flask](https://img.shields.io/badge/-Flask-blue?style=flat-square&logo=flask)
 
 
-#### Servers
+#### Servers and things
 
+![Nginx](https://img.shields.io/badge/-nginx-28a745?style=flat-square&logo=nginx)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-e76d0c?style=flat-square&logo=amazon-aws)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
+![Apache](https://img.shields.io/badge/-apache-orange?style=flat-square&logo=apache)
 
 #### Contact me
 
