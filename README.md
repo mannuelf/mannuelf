@@ -2,6 +2,8 @@
 
 I am Software Engineer, teaching front-end development in Oslo. I enjoy building web applications.
 
+[![wakatime](https://wakatime.com/badge/user/270dbf5b-cd30-4cf2-97ea-be96cecc9067.svg)](https://wakatime.com/@270dbf5b-cd30-4cf2-97ea-be96cecc9067)
+
 ### Stack I enjoy today
 
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
