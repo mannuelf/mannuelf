@@ -42,10 +42,4 @@ I am Software Engineer, working @ [SATS](https://sats.no) in Oslo. I enjoy build
 
 [![wakatime](https://wakatime.com/badge/user/270dbf5b-cd30-4cf2-97ea-be96cecc9067.svg)](https://wakatime.com/@270dbf5b-cd30-4cf2-97ea-be96cecc9067)
 
-#### Contact me
-
 [![Linkedin Badge](https://img.shields.io/badge/-mannuel-ferreira?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mannuelferreira/)](https://www.linkedin.com/in/mannuelferreira/)
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=mannuelf&count_private=true&show_icons=true&include_all_commits=true&theme=radical)
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=mannuelf)
