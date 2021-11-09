@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-I am Software Engineer, working @ SATS in Oslo. I enjoy building web applications.
-
-[![wakatime](https://wakatime.com/badge/user/270dbf5b-cd30-4cf2-97ea-be96cecc9067.svg)](https://wakatime.com/@270dbf5b-cd30-4cf2-97ea-be96cecc9067)
+I am Software Engineer, working @ [SATS](https://sats.no) in Oslo. I enjoy building web applications.
 
 ### Stack I enjoy today
 
@@ -41,6 +39,8 @@ I am Software Engineer, working @ SATS in Oslo. I enjoy building web application
 ![RABBITMQ](https://img.shields.io/badge/-RABBITMQ-black?style=flat-square&logo=rabbitmq)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Apache](https://img.shields.io/badge/-apache-orange?style=flat-square&logo=apache)
+
+[![wakatime](https://wakatime.com/badge/user/270dbf5b-cd30-4cf2-97ea-be96cecc9067.svg)](https://wakatime.com/@270dbf5b-cd30-4cf2-97ea-be96cecc9067)
 
 #### Contact me
 
