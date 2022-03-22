@@ -7,13 +7,10 @@ I am Software Engineer, working @ [SATS](https://sats.no) in Oslo. I enjoy build
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-eeeeee?style=flat-square&logo=typescript)
 ![NextJs](https://img.shields.io/badge/-NextJs-black?style=flat-square&logo=nextjs)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E535AB?style=flat-square&logo=graphql)
 ![Nodejs](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-white?style=flat-square&logo=postgresql)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-cccccc?style=flat-square&logo=kubernetes)
+![Azure](https://img.shields.io/badge/-Microsoft-0078d4?style=flat-square&logo=Microsoft)
 
-#### Also built with...
+#### Also built with
 
 ![Vue](https://img.shields.io/badge/-Vue-eeeeee?style=flat-square&logo=vue.js)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -28,6 +25,10 @@ I am Software Engineer, working @ [SATS](https://sats.no) in Oslo. I enjoy build
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Flask](https://img.shields.io/badge/-Flask-blue?style=flat-square&logo=flask)
 
+![GraphQL](https://img.shields.io/badge/-GraphQL-E535AB?style=flat-square&logo=graphql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-white?style=flat-square&logo=postgresql)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-cccccc?style=flat-square&logo=kubernetes)
 
 #### Servers and other things
 
@@ -45,6 +46,5 @@ I am Software Engineer, working @ [SATS](https://sats.no) in Oslo. I enjoy build
 [![Linkedin Badge](https://img.shields.io/badge/-mannuel-ferreira?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mannuelferreira/)](https://www.linkedin.com/in/mannuelferreira/)
 
 #### Reading
- 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/mannuelf/mannuelf/blob/main/devcard.svg" width="400" alt="Mannuel Ferreira"/></a>
 
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/mannuelf/mannuelf/blob/main/devcard.svg" width="400" alt="Mannuel Ferreira"/></a>
