@@ -47,4 +47,4 @@ I am Software Engineer, working @ [SATS](https://sats.no) in Oslo. I enjoy build
 
 #### Reading
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/mannuelf/mannuelf/blob/main/devcard.svg" width="400" alt="Mannuel Ferreira"/></a>
+<a href="https://app.daily.dev/mannuelf"><img src="https://github.com/mannuelf/mannuelf/blob/main/devcard.svg" width="400" alt="Mannuel Ferreira"/></a>
