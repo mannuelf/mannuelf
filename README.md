@@ -6,4 +6,3 @@ I am a Software Engineer, working @ [SATS](https://sats.no) in Oslo. I enjoy bui
 
 
 [www.mannuelferreira.com](https://mannuelferreira.com)
-![manneul ferreira](https://res.cloudinary.com/mannuel/image/upload/v1670391672/images/footer-github.png)
